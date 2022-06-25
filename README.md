@@ -13,6 +13,7 @@
 <a href="https://flask.palletsprojects.com/en/2.1.x/"><img alt="flask" src="https://img.shields.io/badge/-flask-ebebeb?style=flat&logo=flask&logoColor=white"/></a>
 <a href="https://jinja.palletsprojects.com/en/3.0.x/templates/"><img alt="jinja" src="https://img.shields.io/badge/-jinja-f4000b?style=flat&logo=jinja&logoColor=white"/></a>
 <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src="https://img.shields.io/badge/-SQLite-124dff?style=flat&logo=SQLite&logoColor=white"/></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-005ed2?style=flat&logo=Docker&logoColor=white"/></a>
 <a href="https://getbootstrap.com/"><img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-d453fd?style=flat&logo=bootstrap&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0066b8?style=flat&logo=visualstudiocode&logoColor=white" /></a>
 
