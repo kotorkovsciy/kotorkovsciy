@@ -28,3 +28,4 @@
 > **Projects I'm currently working on:**
 
 - **[Telegram-text-to-voice](https://github.com/kotorkovsciy/Telegram-text-to-voice)** (Python) - **Text to voice translation**
+- **[Telegram-bot-for-orders](https://github.com/kotorkovsciy/Telegram-bot-for-orders)** (HTML & CSS & JS & Python) - **Telegram-bot-for-orders**
