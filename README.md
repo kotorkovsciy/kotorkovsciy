@@ -29,6 +29,7 @@
 
 - **[Telegram-text-to-voice](https://github.com/kotorkovsciy/Telegram-text-to-voice)** (Python) - **Text to voice translation**
 - **[Telegram-bot-for-orders](https://github.com/kotorkovsciy/Telegram-bot-for-orders)** (HTML & CSS & JS & Python) - **Telegram-bot-for-orders**
+- **[portfolio-template](https://github.com/kotorkovsciy/portfolio-template)** (HTML & CSS & JS) - **Portfolio Template for Developers**
 
 ## ⚒ Open Source Projects
 
