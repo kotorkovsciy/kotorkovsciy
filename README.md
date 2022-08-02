@@ -29,10 +29,10 @@
 
 - **[Telegram-text-to-voice](https://github.com/kotorkovsciy/Telegram-text-to-voice)** (Python) - **Text to voice translation**
 - **[Telegram-bot-for-orders](https://github.com/kotorkovsciy/Telegram-bot-for-orders)** (HTML & CSS & JS & Python) - **Telegram-bot-for-orders**
-- **[portfolio-template](https://github.com/kotorkovsciy/portfolio-template)** (HTML & CSS & JS) - **Portfolio Template for Developers**
 
 ## ⚒ Open Source Projects
 
 > **Projects I've been working on some time ago:**
 
 - **[J0kes43oo](https://github.com/kotorkovsciy/J0kes43oo)** (Python) - **A bot for saving and distributing jokes**
+- **[portfolio-template](https://github.com/kotorkovsciy/portfolio-template)** (HTML & CSS & JS) - **Portfolio Template for Developers**
