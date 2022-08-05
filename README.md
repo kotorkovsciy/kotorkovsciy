@@ -13,6 +13,7 @@
 <a href="https://flask.palletsprojects.com/en/2.1.x/"><img alt="flask" src="https://img.shields.io/badge/-flask-ebebeb?style=flat&logo=flask&logoColor=white"/></a>
 <a href="https://jinja.palletsprojects.com/en/3.0.x/templates/"><img alt="jinja" src="https://img.shields.io/badge/-jinja-f4000b?style=flat&logo=jinja&logoColor=white"/></a>
 <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src="https://img.shields.io/badge/-SQLite-124dff?style=flat&logo=SQLite&logoColor=white"/></a>
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-005ed2?style=flat&logo=Docker&logoColor=white"/></a>
 <a href="https://getbootstrap.com/"><img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-d453fd?style=flat&logo=bootstrap&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0066b8?style=flat&logo=visualstudiocode&logoColor=white" /></a>
@@ -28,11 +29,9 @@
 > **Projects I'm currently working on:**
 
 - **[Telegram-text-to-voice](https://github.com/kotorkovsciy/Telegram-text-to-voice)** (Python) - **Text to voice translation**
-- **[Telegram-bot-for-orders](https://github.com/kotorkovsciy/Telegram-bot-for-orders)** (HTML & CSS & JS & Python) - **Telegram-bot-for-orders**
 
 ## ⚒ Open Source Projects
 
 > **Projects I've been working on some time ago:**
 
 - **[J0kes43oo](https://github.com/kotorkovsciy/J0kes43oo)** (Python) - **A bot for saving and distributing jokes**
-- **[portfolio-template](https://github.com/kotorkovsciy/portfolio-template)** (HTML & CSS & JS) - **Portfolio Template for Developers**
