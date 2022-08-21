@@ -14,6 +14,7 @@
 <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src="https://img.shields.io/badge/-SQLite-124dff?style=flat&logo=SQLite&logoColor=white"/></a>
 <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /></a>
 <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-00684a?style=flat&logo=mongodb&logoColor=white" /></a>
+<a href="https://www.selenium.dev/"><img alt="Selenium" src="https://img.shields.io/badge/-Selenium-008000?style=flat&logo=selenium&logoColor=white" /></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-005ed2?style=flat&logo=Docker&logoColor=white"/></a>
 <a href="https://getbootstrap.com/"><img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-d453fd?style=flat&logo=bootstrap&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0066b8?style=flat&logo=visualstudiocode&logoColor=white" /></a>
