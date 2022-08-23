@@ -30,6 +30,7 @@
 > **Projects I'm currently working on:**
 
 - **[Telegram-text-to-voice](https://github.com/kotorkovsciy/Telegram-text-to-voice)** (Python) - **Text to voice translation**
+- **[Telegram-wakatime-stats-bot](https://github.com/kotorkovsciy/Telegram-wakatime-stats-bot)** (Python) - **A bot for viewing statistics on the languages used, OS, and so on**
 
 ## ⚒ Open Source Projects
 
