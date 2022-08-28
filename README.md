@@ -18,6 +18,7 @@
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-005ed2?style=flat&logo=Docker&logoColor=white"/></a>
 <a href="https://getbootstrap.com/"><img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-d453fd?style=flat&logo=bootstrap&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0066b8?style=flat&logo=visualstudiocode&logoColor=white" /></a>
+<a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-ffd133?style=flat&logo=Linux&logoColor=black" /></a>
 
 ### 📫 Socials
 
