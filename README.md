@@ -9,6 +9,7 @@
 ### 🔧 Languages & Tools
 
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-397ab2?style=flat&logo=Python&logoColor=white" /></a>
+<a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/></a>
 <a href="https://flask.palletsprojects.com/en/2.1.x/"><img alt="flask" src="https://img.shields.io/badge/-flask-ebebeb?style=flat&logo=flask&logoColor=white"/></a>
 <a href="https://jinja.palletsprojects.com/en/3.0.x/templates/"><img alt="jinja" src="https://img.shields.io/badge/-jinja-f4000b?style=flat&logo=jinja&logoColor=white"/></a>
 <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src="https://img.shields.io/badge/-SQLite-124dff?style=flat&logo=SQLite&logoColor=white"/></a>
