@@ -43,4 +43,4 @@
 
 ## 🕖 I spent my time on
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kotorkovsciy&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-kotorkovsciy.vercel.app/api/wakatime?username=kotorkovsciy&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
