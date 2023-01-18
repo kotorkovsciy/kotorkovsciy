@@ -32,15 +32,14 @@
 
 > **Projects I'm currently working on:**
 
-- **[Telegram-lms-bot](https://github.com/kotorkovsciy/Telegram-lms-bot)** (Python) - **A bot that displays the college class schedule**
-- **[Telegram-text-to-voice](https://github.com/kotorkovsciy/Telegram-text-to-voice)** (Python) - **Text to voice translation**
-- **[Telegram-wakatime-stats-bot](https://github.com/kotorkovsciy/Telegram-wakatime-stats-bot)** (Python) - **A bot for viewing statistics on the languages used, OS, and so on**
-
 ## ⚒ Open Source Projects
 
 > **Projects I've been working on some time ago:**
 
 - **[J0kes43oo](https://github.com/kotorkovsciy/J0kes43oo)** (Python) - **A bot for saving and distributing jokes**
+- **[Telegram-lms-bot](https://github.com/kotorkovsciy/Telegram-lms-bot)** (Python) - **A bot that displays the college class schedule**
+- **[Telegram-text-to-voice](https://github.com/kotorkovsciy/Telegram-text-to-voice)** (Python) - **Text to voice translation**
+- **[Telegram-wakatime-stats-bot](https://github.com/kotorkovsciy/Telegram-wakatime-stats-bot)** (Python) - **A bot for viewing statistics on the languages used, OS, and so on**
 
 ## 🕖 I spent my time on
 
