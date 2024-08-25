@@ -13,4 +13,4 @@
 - Bash
 - Git
 - Visual Studio Code
-- PyCharm
+
