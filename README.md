@@ -4,7 +4,7 @@
 
 - [Discord](https://discordapp.com/users/452019546593820674/)
 - [Telegram](https://t.me/Kotorkovsciy)
-- [Email](mailto:kotorkovsciy@gmail.com)
+- [Email](mailto:kotorkovsciy@yandex.ru)
 
 ### Languages and Tools:
 - Python
