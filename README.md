@@ -34,9 +34,13 @@
 
 ---
 
-### ⌛ WakaTime Stats:
+### 📊 View WakaTime Stats:
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kotorkovsciy&theme=default&border_radius=10" />
-  <img src="https://github.com/user-attachments/assets/83459f2c-1981-4cd4-94c6-ab98163ed95f" />
-</div>
+<details>
+  <summary>Click to expand!</summary>
+  
+  <img src="https://github.com/user-attachments/assets/83459f2c-1981-4cd4-94c6-ab98163ed95f" alt="Punchy Dance" />
+  
+  <p>Do you really think I'm going to brag about my WakaTime stats?</p>
+  
+</details>
